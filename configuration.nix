@@ -1,6 +1,6 @@
 # Author: fox7fog
-# Date: May 2024
-# License: MIT (or specify otherwise)
+# Date: May 2025
+# License: MIT
 #
 # Description: NixOS system configuration for the host 'F7F'.
 #              Defines system-level settings, services, and hardware configuration imports.

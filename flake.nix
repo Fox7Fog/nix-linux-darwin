@@ -1,6 +1,6 @@
 # Author: fox7fog
-# Date: May 2024
-# License: MIT (or specify otherwise)
+# Date: May 2025
+# License: MIT
 #
 # Description: Main Flake file defining NixOS and Home Manager configurations
 #              for cross-platform use (NixOS Linux, macOS Darwin).

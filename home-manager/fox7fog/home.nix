@@ -1,6 +1,6 @@
 # Author: fox7fog
-# Date: May 2024
-# License: MIT (or specify otherwise)
+# Date: May 2025
+# License: MIT
 #
 # Description: Top-level Home Manager configuration for user 'fox7fog'.
 #              Imports common and platform-specific modules (Linux/Darwin).
